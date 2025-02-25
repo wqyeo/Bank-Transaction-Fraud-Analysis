@@ -19,3 +19,5 @@ It will install the Kotlin Kernal for Jupyter notebooks. Ensure that the Kotlin 
 ### Others
 
 See the official documentation for [Installing the Kotlin Kernel](https://github.com/Kotlin/kotlin-jupyter?tab=readme-ov-file#install-the-kotlin-kernel-in-various-clients).
+
+> Dataset used for this project is from [Kaggle's Bank Transaction Dataset](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)
